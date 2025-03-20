@@ -12,7 +12,7 @@ This repository includes various software applications developed during my studi
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License
 
 ## Author
 
