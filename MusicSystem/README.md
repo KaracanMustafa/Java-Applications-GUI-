@@ -12,7 +12,7 @@ A simple Java-based music system that allows users to manage and play music with
 
 # Getting Started
 
-1. Clone the repository: git clone https://github.com/KaracanMustafa/MusicSystemGUI.git
+1. Clone the repository: git clone https://github.com/KaracanMustafa/Java-Applications-GUI-/tree/main/MusicSystem
 2. Import the files into your Java IDE.
 3. Update the music paths in the code to link your music files.
 4. Run the MusicSystem.java to start the application.
