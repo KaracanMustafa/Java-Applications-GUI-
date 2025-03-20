@@ -42,4 +42,4 @@ The application follows a basic layered architecture with:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/favoritesites.git
+git clone https://github.com/KaracanMustafa/Java-Applications-GUI-/tree/main/FavoriteSitesGUI
