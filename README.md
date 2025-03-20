@@ -2,7 +2,7 @@
 
 Welcome to the Software Projects Repository!
 
-This repository includes various software applications developed during my studies at Yaşar University, as part of courses such as **SE 2224** and **SE 3317**. Each project is built using **Java** with a **Graphical User Interface (GUI)** and integrates with a **MySQL database** for data storage.
+This repository includes various software applications developed during my studies at Yaşar University. Each project is built using **Java** with a **Graphical User Interface (GUI)** and integrates with a **MySQL database** for data storage.
 
 ## Project Highlights
 
