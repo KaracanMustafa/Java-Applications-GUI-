@@ -15,4 +15,4 @@
 - **Dependencies**: Standard libraries for GUI development and data handling (update with specific libraries if applicable).
 
 ## Installation
-1. **Clone the Repository**: git clone https://github.com/KaracanMustafa/FlightReservationGUI.git
+1. **Clone the Repository**: git clone https://github.com/KaracanMustafa/Java-Applications-GUI-/tree/main/FlightReservationSystem
