@@ -17,4 +17,4 @@ This is a simple graphical calculator built using Java Swing (`JFrame` and relat
 ## How to Run
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/graphical-calculator.git
+   git clone https://github.com/KaracanMustafa/Java-Applications-GUI-/tree/main/GraphicalCalculator
