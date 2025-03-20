@@ -41,4 +41,4 @@ The application is designed using the following software design patterns:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task-planner.git
+git clone https://github.com/KaracanMustafa/TaskPlannerProject.git
