@@ -16,4 +16,4 @@ This is a simple Java-based car price calculator application built using `JFrame
 ## How to Run
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/car-price-calculator.git
+   git clone https://github.com/KaracanMustafa/Java-Applications-GUI-/tree/main/CarPriceCalculator
